@@ -2,7 +2,7 @@
 
 # Índice
 
-* [Descrição do Projeto](#descri%C3%A7%C3%A3o-do-projeto)
+* [Descrição do Projeto](#-descrição-do-projeto)
 * [Fontes](#fontes)
 
 ## 📋 Descrição do projeto
