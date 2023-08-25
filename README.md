@@ -10,7 +10,7 @@
 Este respositorio armazena um sistema para organizar as tarefas tendo as funções de escever, adicionar, concluir e desfazer a tarefa descrita.
 
 
-### Tecnologias utilizadas
+### 🤖 Tecnologias utilizadas
 
 * HTML5
 * CSS3
@@ -20,7 +20,7 @@ Este respositorio armazena um sistema para organizar as tarefas tendo as funçõ
 * Github
 
 
-### Funcionalidades
+### 🦾 Funcionalidades
 
 O projeto utiliza:
 
