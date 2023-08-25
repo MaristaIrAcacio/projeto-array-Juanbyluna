@@ -35,3 +35,7 @@ O projeto utiliza:
 
     ### Fontes
 
+* https://www.alura.com.br/artigos/escrever-bom-readme
+* Chat GPT
+
+
