@@ -3,6 +3,7 @@
 # Índice
 
 * [Descrição do Projeto](#-descrição-do-projeto)
+* [Funcionalidades](#Funcionalidades)
 * [Fontes](#fontes)
 
 ## 📋 Descrição do projeto
