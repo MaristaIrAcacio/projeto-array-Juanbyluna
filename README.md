@@ -1,4 +1,4 @@
-# Explicacao_arrays
+# Projeto - Aplicação web com Array em Javascript
 Este respositorio armazena um sistema para organizar as tarefas tendo as funções de escever, adicionar, concluir e desfazer a tarefa descrita.
      O projeto utiliza:
      arrays;
