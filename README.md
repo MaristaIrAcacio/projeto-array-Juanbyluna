@@ -6,6 +6,14 @@
 * [Funcionalidades](#Funcionalidades)
 * [Fontes](#fontes)
 
+# 📁 Acesso ao projeto
+
+**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+
+# 🛠️ Abrir e rodar o projeto
+
+**Apresente as instruções necessárias para abrir e executar o projeto**
+
 ## 📋 Descrição do projeto
 Este respositorio armazena um sistema para organizar as tarefas tendo as funções de escever, adicionar, concluir e desfazer a tarefa descrita.
 
