@@ -34,7 +34,7 @@ O projeto utiliza:
     (faz as ações e é onde está armanezado as arrays)
 
 
-    ### Fontes
+### ⛲ Fontes
 
 * https://www.alura.com.br/artigos/escrever-bom-readme
 * Chat GPT
