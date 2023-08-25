@@ -3,6 +3,7 @@
 # Índice
 
 * [Descrição do Projeto](#descrição-do-projeto)
+* [Fontes](#fontes)
 
 ## 📋 Descrição do projeto
 Este respositorio armazena um sistema para organizar as tarefas tendo as funções de escever, adicionar, concluir e desfazer a tarefa descrita.
@@ -30,4 +31,7 @@ O projeto utiliza:
      (parte "bruta" do site, serve para organizar onde cada coisa deve ficar) 
 * JavaScript
     (faz as ações e é onde está armanezado as arrays)
+
+
+    ### Fontes
 
